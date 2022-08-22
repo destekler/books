@@ -123,7 +123,7 @@ Country Code,Ülke Kodu
 Country code used to initialize regional settings.,Bölgesel ayarları başlatmak için kullanılan ülke kodu.
 Courier,Kurye
 Cr.,Cr.
-Create,Yaratmak
+Create, Uretmek
 Create Bill,Fatura Oluştur
 Create Demo,Demo Oluştur
 Create Invoice,Fatura Oluştur
@@ -519,7 +519,7 @@ Show Me,göster bana
 Single Value,Tek Değer
 Smallest Currency Fraction Value,En Küçük Para Birimi Kesir Değeri
 Softwares,Yazılımlar
-Something has gone terribly wrong. Please check the console and raise an issue.,Bir şeyler çok ters gitti. Lütfen konsolu kontrol edin ve bir sorun yaratın.
+Something has gone terribly wrong. Please check the console and raise an issue.,Bir şeyler çok ters gitti. Lütfen konsolu kontrol edin ve bir sorun uretin.
 Source of Funds (Liabilities),Fon Kaynağı (Yükümlülükler)
 Standard Chart of Accounts,Standart Hesap Planı
 Start,Başlamak
