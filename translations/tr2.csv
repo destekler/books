@@ -1,0 +1,629 @@
+${0} ${1} already exists.,${0} ${1} zaten var.
+${0} ${1} has been modified after loading,${0} ${1} yüklendikten sonra deðiþtirildi
+${0} ${1} is linked with existing records.,${0} ${1} varolan kayýtlarla baðlantýlýdýr.
+${0} already exists.,${0} zaten var.
+${0} filters applied,${0} uygulanan filtreler
+${0} rows,${0} satýrlarý
+* required fields,* gerekli alanlar
+0%,0%
+03-23-2022,03-23-2022
+03/23/2022,03/23/2022
+1 filter applied,1 filtre uygulandý
+2022-03-23,2022-03-23
+"23 Mar, 2022",23.03.2022
+23-03-2022,23-03-2022
+23/03/2022,23/03/2022
+9888900000,9888900000
+Account,Hesap
+Account Entries,Hesap Giriþleri
+Account Name,Hesap Adý
+Account Type,Hesap Türü
+Accounting Ledger Entry,Muhasebe Defteri Girdisi
+Accounting Settings,Muhasebe Ayarlarý
+Accounts,Hesaplar
+Accounts Payable,Ödenecek Hesaplar
+Accounts Receivable,Alacak Hesaplarý
+Accumulated Depreciation,Birikmiþ Amortisman
+Add Account,Hesap Ekle
+Add Customers,Müþteri Ekle
+Add Group,Grup Ekle
+Add Items,Öðe Ekle
+Add Row,Satýr Ekle
+Add Suppliers,Tedarikçi Ekle
+Add Taxes,Vergi Ekle
+Add a few customers to create your first invoice,Ýlk faturanýzý oluþturmak için birkaç müþteri ekleyin
+Add a few suppliers to create your first bill,Ýlk faturanýzý oluþturmak için birkaç tedarikçi ekleyin
+Add a filter,Filtre ekleme
+Add a remark,Bir açýklama ekle
+Add invoice terms,Fatura koþullarý ekleme
+Add products or services that you buy from your suppliers,Tedarikçilerinizden satýn aldýðýnýz ürün veya hizmetleri ekleyin
+Add products or services that you sell to your customers,Müþterilerinize sattýðýnýz ürün veya hizmetleri ekleyin
+Address,Adres
+Address Display,Adres Ekraný
+Address Line 1,Adres Satýrý 1
+Address Line 2,Adres Satýrý 2
+Administrative Expenses,Ýdari Giderler
+All,Tüm
+Amount,Miktar
+Amount (Company Currency),Tutar (Þirket Para Birimi)
+Amount: ${0} and writeoff: ${1} is less than the total amount allocated to references: ${2}.,"Amount: ${0} ve writeoff: ${1}, baþvurulara ayrýlan toplam tutardan daha azdýr: ${2}."
+Amount: ${0} is less than the total amount allocated to references: ${1}.,"Tutar: ${0}, baþvurulara ayrýlan toplam tutardan daha azdýr: ${1}."
+An error occurred.,Bir hata oluþtu.
+Application of Funds (Assets),Fonlarýn (Varlýklarýn) Uygulanmasý
+Arial,Arial
+Ascending Order,Artan Düzen
+Asset,Varlýk
+Assign Imported Labels,Ýçe Aktarýlan Etiketleri Atama
+Back,Geri
+Bad import data.,Hatalý içe aktarma verileri.
+Balance,Denge
+Balance Sheet,bilanço
+Bank,Banka
+Bank Accounts,banka hesabý
+Bank Entry,Banka Giriþi
+Bank Name,Banka Adý
+Bank Overdraft Account,Banka Kredili Mevduat Hesabý
+Based On,dayalý
+Basic,Temel
+Basic I,Temel I
+Basic II,Temel II
+Bill,Fatura
+Bill Created,Fatura Oluþturuldu
+Bill No,Fatura No
+Black,Siyah
+Blue,Mavi
+Both,Her ikisi de
+Buildings,Site
+Business,Ýþ
+Cancel,Ýptal etmek
+Cancel ${0} ${1}?,Ýptal ${0} ${1}?
+Cancelled,Ýptal edildi
+Capital Equipments,Sermaye Ekipmanlarý
+Capital Stock,Sermaye Stoðu
+Cash,Nakit
+Cash Entry,Nakit Giriþi
+Cash In Hand,Elinde Nakit
+Cashflow,Nakit Akýþý
+Central Tax,Merkezi Vergi
+Change File,Dosyayý Deðiþtir
+Change Ref Type,Ref Türünü Deðiþtir
+Chargeable,Ödetilebilir
+Chart Of Accounts Reviewed,Ýncelenen Hesap Planý
+Chart of Accounts,Hesap Planý
+Check for Updates,Güncellemeleri Kontrol Et
+Checking for updates,Güncellemeleri kontrol etme
+Cheque,Çek
+City / Town,Þehir
+Clear,Açýk
+Clearance Date,Ýzin Tarihi
+Click to create,Oluþturmak için týklayýn
+Close,Kapatma
+Closing,Kapanma
+Closing (Cr),Kapanýþ (Cr)
+Closing (Dr),Kapanýþ (Dr)
+Color,Renk
+Commission on Sales,Satýþ Komisyonu
+Common,Ortak
+Common Items,Ortak Öðeler
+Company Address,Þirket Adresi
+Company Logo,Þirket Logosu
+Company Name,Þirket Adý
+Company Settings,Þirket Ayarlarý
+Company Setup,Þirket Kurulumu
+Completed,Tamamlandý
+Condition,Koþul
+Consolidate Columns,Sütunlarý Birleþtir
+Contains,Ýçeriyor
+Contra Entry,Kontra Giriþ
+Cost of Goods Sold,Satýlan Mallarýn Maliyeti
+Could not import ${0} ${1}.,${0} ${1} alýnamadý.
+Could not select file.,Dosya seçilemedi.
+Country,Ülke
+Country Code,Ülke Kodu
+Country code used to initialize regional settings.,Bölgesel ayarlarý baþlatmak için kullanýlan ülke kodu.
+Courier,Kurye
+Cr.,Cr.
+Create,Uretmek
+Create Bill,Fatura Oluþtur
+Create Demo,Demo Oluþtur
+Create Invoice,Fatura Oluþtur
+Create Purchase,Satýn Alma Oluþtur
+Create Sale,Satýþ Oluþtur
+Create a new file and store it in your computer.,Yeni bir dosya oluþturun ve bilgisayarýnýzda saklayýn.
+Create a new file or select an existing one from your computer,Yeni bir dosya oluþturun veya bilgisayarýnýzdan varolan bir dosyayý seçin
+Create your first bill and mail it to your supplier,Ýlk faturanýzý oluþturun ve tedarikçinize postayla gönderin
+Create your first invoice and mail it to your customer,Ýlk faturanýzý oluþturun ve müþterinize postayla gönderin
+Created,Uretildi
+Created By,Tarafýndan oluþturuldu
+Creating Items and Parties,Öðeler ve Taraflar Oluþturma
+Creating Journal Entries,Günlük Giriþleri Oluþturma
+Creating Purchase Invoices,Satýnalma Faturalarý Oluþturma
+Credit,Kredi
+Credit Card Entry,Kredi Kartý Giriþi
+Credit Note,Kredi Notu
+Creditors,Alacaklý
+Currency,Para birimi
+Currency Name,Para Birimi Adý
+Current,Þimdiki
+Current Assets,Dönen Varlýklar
+Current Liabilities,Cari Borçlar
+Custom Hex,Özel Altýgen
+Customer,Müþteri
+Customer Created,Müþteri Oluþturuldu
+Customer Currency,Müþteri Para Birimi
+Customers,Müþteriler
+Customise,Özelleþtirmek
+Customize your invoices by adding a logo and address details,Logo ve adres bilgilerini ekleyerek faturalarýnýzý özelleþtirin
+Dashboard,Gösterge paneli
+Data Import,Veri Ýçe Aktarma
+Database file: ${0},Veritabaný dosyasý: ${0}
+Date,Tarih
+Date Format,Tarih Biçimi
+Day,Gün
+Debit,Banka
+Debit Note,Borç Notu
+Debtors,Borçlu
+Default Account,Varsayýlan Hesap
+Delete,Silmek
+Delete ${0} ${1}?,${0} $ {1} silinsin mi?
+Delete ${0}?,${0} silinsin mi?
+Depreciation,Yýpranma
+Depreciation Entry,Amortisman Giriþi
+Description,Taným
+Details,Detaylar
+Direct Expenses,Doðrudan Giderler
+Direct Income,Doðrudan Gelir
+Display Logo in Invoice,Logoyu Faturada Görüntüleme
+Display Precision,Ekran Hassasiyeti
+Display Precision should have a value between 0 and 9.,Ekran Hassasiyeti 0 ile 9 arasýnda bir deðere sahip olmalýdýr.
+Dividends Paid,Ödenen Temettüler
+Docs,Doküman
+Documentation,Belge
+Does Not Contain,Içermez
+Download Update,Güncellemeyi Ýndir
+Downloading update,Güncelleme indiriliyor
+Dr.,Dr.
+Draft,Taslak
+Duplicate,Çiftleme
+Duplicate ${0} ${1}?,Yinelenen ${0} $ {1}?
+Duties and Taxes,Görev ve Vergiler
+Earnest Money,pey akçesi
+Edit,Düzenlemek
+Electronic Equipments,Elektronik Ekipmanlar
+Email,E-posta
+Email Address,E-Posta Adresi
+Empty,Boþ
+Enter Country to load States,Devletleri yüklemek için Ülkeyi girin
+Enter State,Durumu Girin
+Entertainment Expenses,Eðlence Giderleri
+Entry No,Giriþ No
+Entry Type,Giriþ Türü
+Equity,Özkaynak
+Error,Hata
+Exchange Gain/Loss,Deðiþim Kazancý / Kaybý
+Exchange Rate,döviz
+Excise Entry,ÖTV Giriþi
+Existing File,Varolan Dosya
+Expense,Gider
+Expense Account,Gider Hesabý
+Expenses,Masraflar
+Expenses Included In Valuation,Deðerlemeye Dahil Edilen Giderler
+Export,Ýhracat
+Export Failed,Dýþa Aktarma Baþarýsýz Oldu
+Export Successful,Ýhracat Baþarýlý
+Fax,Faks
+Field,Alan
+Fieldname,Alanadý
+File selection failed.,Dosya seçimi baþarýsýz oldu.
+Filter,Filtre
+Fiscal Year,Mali Yýl
+Fiscal Year End Date,Mali Yýl Bitiþ Tarihi
+Fiscal Year Start Date,Mali Yýl Baþlangýç Tarihi
+Fixed Asset,Demirbaþ
+Fixed Assets,Demirbaþ
+Font,Yazý
+For,Ýçin
+Fraction,Kesir
+Fraction Units,Kesir Birimleri
+Freight and Forwarding Charges,Nakliye ve Nakliye Ücretleri
+From Account,Hesaptan
+From Date,Tarihten itibaren
+From Year,Yýldan Ýtibaren
+Full Name,tam adý
+Furnitures and Fixtures,Mobilya ve Demirbaþlar
+GSTIN No.,GSTIN Yok.
+GSTR1,GSTR1NAME
+GSTR2,GSTR2COMMENT
+Gain/Loss on Asset Disposal,Varlýk Elden Çýkarmada Kazanç/ Kayýp
+General,Genel
+General Ledger,Kebir
+Get Started,Baþla
+Gram,Gramlýk
+Grand Total,Genel Toplam
+Grand Total (Company Currency),Toplam (Þirket Para Birimi)
+Greater Than,Daha büyük
+Green,Yeþil
+Group By,Gruplandýr
+HSN/SAC,HSN/SAC
+HSN/SAC Code,HSN/SAC Kodu
+Half Yearly,Yarým Yýllýk
+Half Years,Yarým Yýl
+Hex Value,Onaltýlýk Deðer
+Hide Get Started,Gizle Baþla
+Hide Group Amounts,Grup Tutarlarýný Gizle
+Hides the Get Started section from the sidebar. Change will be visible on restart or refreshing the app.,"Kenar çubuðundan Baþlarken bölümünü gizler. Deðiþiklik, uygulamayý yeniden baþlattýðýnýzda veya yenilediðinizde görünür olacaktýr."
+Hour,Saat
+How to Use Data Import,Veri Alma Nasýl Kullanýlýr
+I can't find my language.,Dilimi bulamýyorum.
+INR,INR
+Image,Görüntü
+Import Data,Verileri Ýçe Aktar
+Import Failed,Ýçe Aktarma Baþarýsýz Oldu
+Import More,Daha Fazla Ýçe Aktar
+Import Success,Ýthalat Baþarýsý
+Import Type,Ýçe Aktarma Türü
+Importer Settings,Ýçe Aktarma Ayarlarý
+Include Cancelled,Ýptal Edilenleri Dahil Et
+Income,Gelir
+Income Account,Gelir Hesabý
+Indigo,Çivit
+Indirect Expenses,Dolaylý Giderler
+Indirect Income,Dolaylý Gelir
+Inflow,Giriþ
+Install Update,Güncelleþtirmeyi Yükle
+Instance Id,Örnek Kimliði
+Intergrated Tax,Entegre Vergi
+Internal Precision,Ýç Hassasiyet
+Invalid value ${0} for ${1},${1} için geçersiz deðer $ {0}
+Investments,Yatýrýmlar
+Invoice,Fatura
+Invoice Created,Fatura Oluþturuldu
+Invoice Date,Fatura Tarihi
+Invoice No,Fatura No
+Invoice No.,Fatura No.
+Invoice Setup,Fatura Kurulumu
+Invoice Value,Fatura Deðeri
+Invoices,Faturalandýrýyor
+Is,Oluyor
+Is Empty,Boþ
+Is Group,Grup mu
+Is Not,Deðil
+Is Not Empty,Boþ Deðil
+Item,Öðe
+Item Description,Ürün Açýklamasý
+Item Name,Öðe Adý
+Items,Öðeler
+John Doe,John Doe
+Journal Entries,Günlük Giriþleri
+Journal Entry,Günlük Giriþi
+Journal Entry Account,Günlük Giriþ Hesabý
+Kg,Kiloluk
+Label Index,Etiket Dizini
+Language,Dil
+Ledger Entries,Defter Giriþleri
+Left Index,Sol Dizin
+Legal Expenses,Yasal Giderler
+Less Than,daha
+Liability,Yükümlülük
+List,Liste
+Load an existing .db file from your computer.,Var olaný yükleyin.bilgisayarýnýzdan db dosyasý.
+Loading Report...,Rapor Yükleniyor...
+Loading...,Yükleniyor...
+Loans (Liabilities),Krediler (Borçlar)
+Loans and Advances (Assets),Krediler ve Avanslar (Varlýklar)
+Locale,Yerel
+Logo,Logo
+Make Entry,Giriþ Yap
+Make Payment,Ödeme Yap
+"Mar 23, 2022",23.03.2022
+Marketing Expenses,Pazarlama Giderleri
+Merriweather,Merriweather
+Meter,Metre
+Minimal,En az
+Miscellaneous Expenses,Çeþitli Giderler
+Modern,Modernlik
+Modified,Modifiye
+Modified By,Tarafýndan deðiþtirildi
+Monthly,Aylýk
+Months,Aylar
+Montserrat,Montserrat
+Name,Ýsim
+Navigate,Gitmek
+Net Total,Net Toplam
+Net Total (Company Currency),Net Toplam (Þirket Para Birimi)
+New ${0},Yeni ${0}
+New Account,Yeni Hesap
+New File,Yeni Dosya
+New Journal Entry,Yeni Günlük Giriþi
+New Purchase,Yeni Satýn Alma
+New Purchase Invoice,Yeni Satýnalma Faturasý
+New Sale,Yeni Satýþ
+New Sales Invoice,Yeni Satýþ Faturasý
+New version available,Yeni sürüm mevcut
+Next,Sonraki
+No,Hayýr
+No Data to Import,Alýnacak Veri Yok
+No Values to be Displayed,Görüntülenecek Deðer Yok
+No entries found,Hiçbir girdi bulunamadý
+No expenses in this period,Bu dönemde masraf yok
+No filters selected,Filtre seçilmedi
+No labels have been assigned.,Etiket atanmadý.
+No results found,Sonuç bulunamadý
+No transactions yet,Henüz iþlem yok
+No updates available,Güncelleme yok
+None,Hiçbiri
+Notes,Notlar
+Number Series,Sayý Serisi
+Number of ${0},${0} sayýsý
+Office Equipments,Ofis Ekipmanlarý
+Office Maintenance Expenses,Ofis Bakým Giderleri
+Office Rent,Ofis Kiralama
+Onboarding Complete,Onboarding Tamamlandý
+Open Folder,Klasörü Aç
+Open Sans,San'larý Aç
+Opening (Cr),Açýlýþ (Cr)
+Opening (Dr),Açýlýþ (Dr)
+Opening Balance Equity,Açýlýþ Bakiyesi Özkaynaklarý
+Opening Balances,Açýlýþ Bakiyeleri
+Opening Entry,Giriþ Açýlýyor
+Orange,Portakal
+Organisation,Örgüt
+Outflow,Dýþarý akma
+Outstanding Amount,Ödenmemiþ Tutar
+Oxygen,Oksijenli
+Pad Zeros,Ped Sýfýrlarý
+Page,Sayfa
+Paid,Ödenmiþ
+Parent,Ebeveyn
+Parent Account,Ana Hesap
+Party,Taraf
+Patch Run,Yama Çalýþmasý
+Pay,Ödemek
+Payable,Ödenebilir
+Payment,Ödeme
+Payment For,Ýçin ödeme
+Payment Method,Ödeme Yöntemi
+Payment No,Ödeme No
+Payment Reference,Ödeme Referansý
+Payment Type,Ödeme Þekli
+Payment amount cannot be ${0}.,Ödeme tutarý ${0} olamaz.
+Payment amount cannot be less than zero.,Ödeme tutarý sýfýrdan az olamaz.
+Payment amount cannot exceed ${0}.,Ödeme tutarý ${0} deðerini geçemez.
+Payment amount: ${0} should be greater than 0.,Ödeme tutarý: ${0} 0'dan büyük olmalýdýr.
+Payment amount: ${0} should be less than Outstanding amount: ${1}.,Ödeme tutarý: ${0} Ödenmemiþ tutardan az olmalýdýr: ${1}.
+Payments,Ödemeler
+Payroll Payable,Ödenecek Bordro
+Periodicity,Periyodik olarak tekrarlanma
+Phone,Telefon
+Pink,Pembe
+Place,Yer
+Place of supply,Arz yeri
+Plants and Machineries,Tesisler ve Makineler
+Please Wait,Lütfen Bekleyin
+Please assign the following fields ${0},Lütfen aþaðýdaki alanlarý atayýn ${0}
+Please fill all values,Lütfen tüm deðerleri doldurun
+Please select a file with data to import.,Lütfen içe aktarýlacak verileri içeren bir dosya seçin.
+Please select a valid reference type.,Lütfen geçerli bir referans türü seçin.
+Postal Code,posta Kodu
+Postal Expenses,Posta Giderleri
+Posting Date,Kayýt Tarihi
+Prefix,Önek
+Prime Bank,Baþbakan Bankasý
+Print,Yazdýrma
+Print Settings,Yazdýrma Ayarlarý
+Print and Stationery,Baský ve Kýrtasiye
+Product,Ürün
+Profit And Loss,Kar ve Zarar
+Profit and Loss,Kar ve Zarar
+Purchase,Satýn alma
+Purchase Invoice,Satýnalma Faturasý
+Purchase Invoice Item,Satýnalma Faturasý Kalemi
+Purchase Invoices,Satýnalma Faturalarý
+Purchase Item Created,Satýnalma Öðesi Oluþturuldu
+Purchase Items,Ürün Satýn Alma
+Purchase Payments,Satýn Alma Ödemeleri
+Purchases,Alýmlar
+Purple,Mor
+Quantity,Miktar
+Quarterly,Üç aylýk
+Quarters,Konut
+Rate,Oran
+Rate (${0}) cannot be less zero.,Oran (${0}) daha az sýfýr olamaz.
+Rate (Company Currency),Oran (Þirket Para Birimi)
+Rate can't be negative.,Oran negatif olamaz.
+Receivable,Alacak
+Receive,Almak
+Recent Invoices,Son Faturalar
+Red,Kýrmýzý
+Ref Name,Hakem Adý
+Ref Type,Ref Türü
+Ref. / Cheque No.,Ýlan. / Çek No.
+Ref. Date,Ýlan. Tarih
+Ref. Name,Ýlan. Ýsim
+Ref. Type,Ýlan. Tip
+Reference,Referans
+Reference Date,Baþvuru Tarihi
+Reference Number,Referans Numarasý
+Reference Type,Referans Türü
+Reload App,Uygulamayý Yeniden Yükle
+Report,Bildiri
+Report Error,Hata Bildir
+Report Issue,Rapor Sorunu
+Reports,Rapor
+Required Fields not Assigned,Gerekli Alanlar Atanmadý
+Reset,Sýfýrlamak
+Retained Earnings,Elde Tutulan Kazançlar
+Reverse Chrg.,Chrg'yi tersine çevir.
+Reverted,Döndürüyordu
+Reverts,Döndürüyor
+Review Accounts,Hesaplarý Gözden Geçirme
+"Review your chart of accounts, add any account or tax heads as needed","Hesap çizelgenizi gözden geçirin, gerektiðinde herhangi bir hesap veya vergi müdürü ekleyin"
+Right Index,Sað Dizin
+Role,Rol
+Root Type,Kök Türü
+Round Off,tamamlamak
+Round Off Account,Hesabý Yuvarla
+Salary,Maaþ
+Sales,Satýþlar
+Sales Expenses,Satýþ Giderleri
+Sales Invoice,Satýþ Faturasý
+Sales Invoice Item,Satýþ Fatura Kalemi
+Sales Invoice Settings,Satýþ Faturasý Ayarlarý
+Sales Invoices,Satýþ Faturalarý
+Sales Invoice,Satýþ Faturasý
+Sales Item Created,Oluþturulan Satýþ Kalemi
+Sales Items,Satýþ Kalemleri
+Sales Payments,Satýþ Ödemeleri
+Save,Kaydetmek
+Save Template,Þablonu Kaydet
+Save as PDF,PDF olarak kaydet
+Save as PDF Successful,PDF olarak kaydet Baþarýlý
+Saving,Tasarruflu
+Search,Aramak
+Secured Loans,Teminatlý Krediler
+Securities and Deposits,Menkul Kýymetler ve Mevduatlar
+Select,Seçmek
+Select CoA,Coa'yý seçin
+Select Color,Renk Seç
+Select Country,Ülke Seç
+Select File,Dosya Seç
+Select Folder,Klasör Seç
+Select Image,Resim Seç
+Select Logo,Logo Seç
+Select a file for import,Ýçe aktarýlacak bir dosya seçin
+Select file,Dosya seç
+Select folder,Klasör seç
+Select your language,Dilinizi seçin
+Selected file,Seçili dosya
+Service,Hizmet
+Set an Import Type,Ýçe Aktarma Türünü Ayarlama
+Set the display language.,Ekran dilini ayarlayýn.
+Set the local code. This is used for number formatting.,Yerel kodu ayarlayýn. Bu sayý biçimlendirmesi için kullanýlýr.
+Sets how many digits are shown after the decimal point.,Ondalýk noktadan sonra kaç basamak gösterileceðini ayarlar.
+Sets the app-wide date display format.,Uygulama genelinde tarih görüntüleme biçimini ayarlar.
+Sets the internal precision used for monetary calculations. Above 6 should be sufficient for most currencies.,Parasal hesaplamalar için kullanýlan iç hassasiyeti ayarlar. Çoðu para birimi için 6'nýn üzerinde yeterli olmalýdýr.
+Setting Up Instance,Örnek Kurma
+Setting Up...,ayarlama...
+Settings,Ayarlar
+Settings changes will be visible on reload,Yeniden yükleme sýrasýnda ayar deðiþiklikleri görünür olacaktýr
+Setup,Kurulum
+Setup Complete,Kurulum Tamamlandý
+Setup Wizard,Kurulum Sihirbazý
+Setup Your Workspace,Çalýþma Alanýnýzý Ayarlama
+Setup system defaults like date format and display precision,Tarih biçimi ve görüntü hassasiyeti gibi sistem varsayýlanlarýný ayarlama
+"Setup your company information, email, country and fiscal year","Þirket bilgilerinizi, e-postanýzý, ülkenizi ve mali yýlýnýzý ayarlayýn"
+Setup your opening balances before performing any accounting entries,Herhangi bir muhasebe girdisi gerçekleþtirmeden önce açýlýþ bakiyelerinizi ayarlama
+Setup your organization,Kuruluþunuzu kurun
+Setup your tax templates for your sales or purchase transactions,Satýþ veya satýn alma iþlemleriniz için vergi þablonlarýnýzý ayarlama
+Show Me,göster bana
+Single Value,Tek Deðer
+Smallest Currency Fraction Value,En Küçük Para Birimi Kesir Deðeri
+Softwares,Yazýlýmlar
+Something has gone terribly wrong. Please check the console and raise an issue.,Bir þeyler çok ters gitti. Lütfen konsolu kontrol edin ve bir sorun uretin.
+Source of Funds (Liabilities),Fon Kaynaðý (Yükümlülükler)
+Standard Chart of Accounts,Standart Hesap Planý
+Start,Baþlamak
+State,Devlet
+State Tax,Devlet Vergisi
+Status,Durum
+Stock,Stok
+Stock Adjustment,Stok Ayarý
+Stock Assets,Stok Varlýklarý
+Stock Expenses,Stok Giderleri
+Stock In Hand,Eldeki Stok
+Stock Liabilities,Hisse Senedi Yükümlülükleri
+Stock Received But Not Billed,Stok Alýndý Ancak Faturalandýrýlmadý
+Submit,Sunmak
+Submit Journal Entry?,Günlük Kaydý Gönder?
+Submit Purchase Invoice?,Satýnalma Faturasý Gönder?
+Submit Sales Invoice?,Satýþ Faturasý Gönder?
+Submit on Import,Ýçe Aktarýrken Gönder
+Submitted,Gönderilen
+Submitting,Gönderme
+Subtotal,ALTTOPLAM
+Successfully created the following ${0} entries:,Aþaðýdaki ${0} giriþleri baþarýyla oluþturuldu:
+Supplier,Tedarikçi
+Supplier Created,Tedarikçi Oluþturuldu
+Supplier Currency,Tedarikçi Para Birimi
+Suppliers,Tedarikçiler
+Symbol,Sembol
+System,Sistem
+System Settings,Sistem Ayarlarý
+System Setup,Sistem Kurulumu
+Tax,Vergi
+Tax Account,Vergi Hesabý
+Tax Assets,Vergi Varlýklarý
+Tax Detail,Vergi Detayý
+Tax ID,Vergi Kimliði
+Tax Summary,Vergi Özeti
+Taxable Value,Vergilendirilebilir Deðer
+Taxes,Vergiler
+Teal,Çamurcun
+Telephone Expenses,Telefon Giderleri
+Template,Þablon
+Temporary,Geçici
+Temporary Accounts,Geçici Hesaplar
+Temporary Opening,Geçici Açýlýþ
+Terms,Þartlar
+The following ${0} entries were created: ${1},Aþaðýdaki ${0} giriþleri oluþturuldu: ${1}
+Theme Color,Tema Rengi
+This Month,Bu Ay
+This Quarter,Bu Çeyrek
+This Year,Bu Yýl
+This action is permanent,Bu eylem kalýcýdýr
+This action is permanent and will cancel the following payment: ${0},Bu iþlem kalýcýdýr ve aþaðýdaki ödemeyi iptal eder: ${0}
+This action is permanent and will cancel the following payments: ${0},Bu iþlem kalýcýdýr ve aþaðýdaki ödemeleri iptal eder: ${0}
+This action is permanent and will delete associated ledger entries.,Bu eylem kalýcýdýr ve iliþkili defter girdilerini siler.
+This action is permanent.,Bu eylem kalýcýdýr.
+Times New Roman,Times New Roman
+To Account,açýklamak
+To Account and From Account can't be the same: ${0},Hesaba ve Hesaptan ayný olamaz: $ {0}
+To Date,çýkmak
+To Year,Yýl için
+Top Expenses,En Yüksek Giderler
+Total,Toplam
+Total Asset (Debit),Toplam Aktif (Borç)
+Total Credit,Toplam Kredi
+Total Debit,Toplam Borç
+Total Debit: ${0} must be equal to Total Credit: ${1},Toplam Borç: ${0} Toplam Krediye eþit olmalýdýr: ${1}
+Total Equity (Credit),Toplam Özkaynak (Kredi)
+Total Expense (Debit),Toplam Gider (Borç)
+Total Income (Credit),Toplam Gelir (Kredi)
+Total Liability (Credit),Toplam Sorumluluk (Kredi)
+Total Profit,Toplam Kar
+Total Spending,Toplam Harcama
+Transfer,Aktarma
+Transfer Type,Aktarým Türü
+Travel Expenses,Seyahat Masraflarý
+Trial Balance,mizan
+Type,Tip
+Type to search...,Aramak için yazýn...
+Unit,Birim
+Unit Type,Birim Türü
+Unpaid,Ödenmemiþ
+Unsecured Loans,Teminatsýz Krediler
+Until Date,Tarihe kadar
+Update downloaded,Güncelleme indirildi
+User Remark,Kullanýcý Açýklamasý
+Utility Expenses,Hizmet Giderleri
+Value,Deðer
+Value missing for ${0},${0} için eksik deðer
+Verify Imported Data,
+Version,
+Version ${0} available,
+View Purchases,
+View Sales,
+Welcome to Frappe Books,
+Write Off,
+Write Off Account,
+Write Off Account not set. Please set Write Off Account in General Settings,
+Write Off Entry,
+Yearly,
+Years,
+Yellow,
+Yes,
+Your Name,
+john@doe.com,
+reports,
+setup,
+verify the imported data and click on,
